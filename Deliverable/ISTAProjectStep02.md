@@ -4,7 +4,7 @@
 #####Michelle Caballero
 #####January 19, 2019
 
-After two weeks of class my project aspirations were put into perspective. I
+After two weeks of class my project aspirations were put into perspective. I 
 realize how difficult it is to get a computer to do what you want it to do. I
 now understand the concept of inputting data into an application and how in
 actuality that data is stored. I understand once that data is stored there are
